@@ -35,7 +35,7 @@ invisible(lapply(required_packages, library, character.only = TRUE))
 # ── 1. CONFIGURATION ─────────────────────────────────────────────────────────
 
 # Path to your CSV file
-CSV_PATH <- "/Users/aatkin/Documents/Tactile_Suppression_Study/Precision_Error/Entry_error/Signed_error/Entry_error_signed.csv"
+CSV_PATH <- ""
 # Name of the participant ID column
 ID_COL <- "Participant_ID"
 

@@ -34,7 +34,7 @@ invisible(lapply(required_packages, library, character.only = TRUE))
 # ── 1. CONFIGURATION ─────────────────────────────────────────────────────────
 
 # Path to your CSV file
-CSV_PATH <- "/Users/aatkin/Documents/Tactile_Suppression_Study/Movement_Time/MT_ID/N=29/movement_time_summary_noOutliers.csv"
+CSV_PATH <- ""
 
 # Name of the participant ID column
 ID_COL <- "Participant_ID"

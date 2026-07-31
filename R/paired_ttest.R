@@ -75,7 +75,7 @@ load_csv <- function(file,
 # -----------------------------------------------------------------------------
 # SET YOUR CSV PATH AND COLUMN NAMES HERE
 # -----------------------------------------------------------------------------
-csv_file <- "/Users/aatkin/Documents/Tactile_Suppression_Study/Signal_Detection/dprime/dprime_results.csv"   # <-- path to your CSV file
+csv_file <- ""   # <-- path to your CSV file
 col1     <- "dprime_back"                 # <-- first column:  name (e.g. "Pre") or index
 col2     <- "dprime_hand"                 # <-- second column: name (e.g. "Post") or index
 # -----------------------------------------------------------------------------

@@ -32,7 +32,7 @@ invisible(lapply(required_packages, library, character.only = TRUE))
 # ── 1. CONFIGURATION ─────────────────────────────────────────────────────────
 
 # Path to your CSV file
-CSV_PATH <- "/Users/aatkin/Documents/Tactile_Suppression_Study/SURG-TLX_PhysicalDemands/N=29/SURG-TLX_PhysicalDemands.csv"
+CSV_PATH <- ""
 
 # Name of the participant ID column
 ID_COL <- "Participant_ID"
